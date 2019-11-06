@@ -1,0 +1,30 @@
+#inputContainer {
+    margin-left: 2%;
+    width: 96%;
+    height: 100px;
+}
+
+#name-input, #tag-input {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid gainsboro;
+    height: 40px;
+    font-family:"Arial";
+    font-size: 24px;
+    outline: none;
+}
+
+#name-input {
+    margin-bottom: 10px;
+}
+
+#name-input:focus {
+    border-bottom: 2px solid gray;
+}
+
+#tag-input:focus {
+    border-bottom: 2px solid gray;
+}
