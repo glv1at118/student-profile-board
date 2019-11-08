@@ -38,7 +38,7 @@ export function updateState(studentArr) {
 
 export function makeRequest() {
     return function (dispatch, getState) {
-        axios.get('https://www.hatchways.io/api/assessment/students')
+        axios.get('https://raw.githubusercontent.com/glv1at118/student-system-api/master/students.json')
             .then(function (response) {
                 // retrieves the student info array & dispatch a sync action-creator
                 let studentArr = response.data.students;
