@@ -1,6 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The student profile board application can display student's academic information on a list, including their personal info, test scores and average, as well as personal tags. Search can be performed based on either name (first/last) or tag, or a combination of them.
+
+This app is developed with React, Redux, and React-Redux, with HTML and CSS.
+
+Previews:
+![1](https://user-images.githubusercontent.com/44102726/71849929-2feab400-30a1-11ea-9777-8bd909f56031.JPG)
+![2](https://user-images.githubusercontent.com/44102726/71849930-2feab400-30a1-11ea-8a80-64905e33d30c.JPG)
+![3](https://user-images.githubusercontent.com/44102726/71849931-2feab400-30a1-11ea-9570-14c3d17bb7ca.JPG)
+![4](https://user-images.githubusercontent.com/44102726/71849932-30834a80-30a1-11ea-876b-3a5df43d3c82.JPG)
 
 ## Available Scripts
+
+To install the package dependencies, run: 
+### `yarn install`
 
 In the project directory, you can run:
 
@@ -36,33 +47,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
