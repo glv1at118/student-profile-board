@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/student-profile-board/static/css/main.f93642f5.chunk.css",
+    "main.js": "/student-profile-board/static/js/main.4abf95e3.chunk.js",
+    "main.js.map": "/student-profile-board/static/js/main.4abf95e3.chunk.js.map",
+    "runtime-main.js": "/student-profile-board/static/js/runtime-main.85f172d6.js",
+    "runtime-main.js.map": "/student-profile-board/static/js/runtime-main.85f172d6.js.map",
+    "static/js/2.4603bdb3.chunk.js": "/student-profile-board/static/js/2.4603bdb3.chunk.js",
+    "static/js/2.4603bdb3.chunk.js.map": "/student-profile-board/static/js/2.4603bdb3.chunk.js.map",
+    "index.html": "/student-profile-board/index.html",
+    "precache-manifest.6d03f6979dd2afeaff57c00af514b043.js": "/student-profile-board/precache-manifest.6d03f6979dd2afeaff57c00af514b043.js",
+    "service-worker.js": "/student-profile-board/service-worker.js",
+    "static/css/main.f93642f5.chunk.css.map": "/student-profile-board/static/css/main.f93642f5.chunk.css.map",
+    "static/media/item-part.css": "/student-profile-board/static/media/icomoon.fa262322.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85f172d6.js",
+    "static/js/2.4603bdb3.chunk.js",
+    "static/css/main.f93642f5.chunk.css",
+    "static/js/main.4abf95e3.chunk.js"
+  ]
+}
